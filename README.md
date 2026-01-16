@@ -1,4 +1,4 @@
-# 🚄 RailSathi Complaint Management API (Dockerized)
+# 🚄 RailSathi Complaint Management API
 
 [![Public](https://img.shields.io/badge/repo-public-brightgreen.svg)](https://github.com/ankitgpt18/railsathi-docker)
 
